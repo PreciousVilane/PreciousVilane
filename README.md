@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Precious Vilane and I'm a Software developer.</h2>
+<h2 align="left">Hi 👋! My name is Nomfanelo Precious Vilane and I'm a Software developer.</h2>
 
 ###
 
