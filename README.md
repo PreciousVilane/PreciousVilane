@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Nomfanelo Precious Vilane and I'm a Software developer.</h2>
+<h2 align="left">Hi 👋! My name is Nomfanelo Precious Vilane a Problem Solver and I'm a Software Engineer.
+I design and build, software that caltivate, assit, solve business problems and offer better solutions.
+ Want a solution to your problem? Hit Me Up!
+</h2>
 
 ###
 
